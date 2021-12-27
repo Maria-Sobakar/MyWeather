@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="coordinates">Coordinates </string>
+    <string name="select_city">Select city</string>
+</resources>
